@@ -1,0 +1,218 @@
+{
+  "Name": "Нарастающий Гавр",
+  "AverageStepsCount": 19850.0,
+  "WorstStepsCount": 1000,
+  "BestStepsCount": 38700,
+  "DayResults": [
+    {
+      "Day": 1,
+      "Rank": 99,
+      "Steps": 1000,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 2,
+      "Rank": 93,
+      "Steps": 2300,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 3,
+      "Rank": 90,
+      "Steps": 3600,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 4,
+      "Rank": 84,
+      "Steps": 4900,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 5,
+      "Rank": 83,
+      "Steps": 6200,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 6,
+      "Rank": 81,
+      "Steps": 7500,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 7,
+      "Rank": 77,
+      "Steps": 8800,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 8,
+      "Rank": 73,
+      "Steps": 10100,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 9,
+      "Rank": 71,
+      "Steps": 11400,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 10,
+      "Rank": 67,
+      "Steps": 12700,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 11,
+      "Rank": 62,
+      "Steps": 14000,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 12,
+      "Rank": 59,
+      "Steps": 15300,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 13,
+      "Rank": 52,
+      "Steps": 16600,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 14,
+      "Rank": 48,
+      "Steps": 17900,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 15,
+      "Rank": 44,
+      "Steps": 19200,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 16,
+      "Rank": 40,
+      "Steps": 20500,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 17,
+      "Rank": 37,
+      "Steps": 21800,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 18,
+      "Rank": 36,
+      "Steps": 23100,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 19,
+      "Rank": 32,
+      "Steps": 24400,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 20,
+      "Rank": 28,
+      "Steps": 25700,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 21,
+      "Rank": 26,
+      "Steps": 27000,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 22,
+      "Rank": 25,
+      "Steps": 28300,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 23,
+      "Rank": 20,
+      "Steps": 29600,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 24,
+      "Rank": 21,
+      "Steps": 30900,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 25,
+      "Rank": 18,
+      "Steps": 32200,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 26,
+      "Rank": 15,
+      "Steps": 33500,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 27,
+      "Rank": 14,
+      "Steps": 34800,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 28,
+      "Rank": 11,
+      "Steps": 36100,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 29,
+      "Rank": 12,
+      "Steps": 37400,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    },
+    {
+      "Day": 30,
+      "Rank": 4,
+      "Steps": 38700,
+      "Status": "Finished",
+      "User": "Нарастающий Гавр"
+    }
+  ]
+}
